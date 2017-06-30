@@ -10,12 +10,15 @@ https://www.hqt.ro/transmission-on-asuswrt-routers-through-entware/
 
 /opt/etc/init.d/S88transmission stop
 
-Перейти по адресу 
+Перейти по адресу
+
+
 /tmp/mnt/имя диска/entware-ng.arm/share/transmission/web
 и заменить файл index.html
 
 Перезагрузить Тransmission
 
 /opt/etc/init.d/S88transmission restart
+
 
 Всё :)
